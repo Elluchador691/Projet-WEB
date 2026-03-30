@@ -153,3 +153,5 @@ function jsonError(string $message, int $code = 400, array $errors = []): void {
     echo json_encode(['success' => false, 'message' => $message, 'errors' => $errors]);
     exit;
 }
+
+ss
