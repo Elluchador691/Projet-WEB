@@ -14,5 +14,5 @@ define('MAIL_RECRUTEUR', 'recrutement@ideastage.fr'); // Email qui reçoit les c
    1. Télécharge PHPMailer : https://github.com/PHPMailer/PHPMailer
    2. Place le dossier dans /vendor/phpmailer/
    3. Décommente la section PHPMailer dans send_candidature.php
-   ============================================================ */
+   ============================================================ 123321323123123123123*/
  
